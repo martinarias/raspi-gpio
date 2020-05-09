@@ -23,7 +23,8 @@
   },
   "cpu": [
     "arm",
-    "arm64"
+    "arm64",
+    "x64"
   ],
   "scripts": {
     "prebuild": "tslint 'src/**/*.ts'",
